@@ -3,7 +3,7 @@ const siteMetadata = {
   title: ' Welcome to Syntrixia! ',
   author: 'Feroz Bhuyan',
   headerTitle: ' Website is not ready yet, please visit again!',
-  description: ' Syntrixia is getting ready with worldclass industrial automation solutions'
+  description: ' Syntrixia is getting ready with worldclass industrial automation solutions',
   language: 'en-us',
   theme: 'system', // system, dark or light
   siteUrl: 'https://tailwind-nextjs-starter-blog.vercel.app',
