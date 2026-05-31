@@ -2,7 +2,7 @@
 const siteMetadata = {
   title: ' Welcome to Syntrixia! ',
   author: 'Feroz Bhuyan',
-  headerTitle: ' Website is not yet, please visit again!',
+  headerTitle: ' Website is not ready yet, please visit again!',
   description: 'A blog created with Next.js and Tailwind.css',
   language: 'en-us',
   theme: 'system', // system, dark or light
