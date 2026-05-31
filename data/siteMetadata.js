@@ -1,8 +1,8 @@
 /** @type {import("pliny/config").PlinyConfig } */
 const siteMetadata = {
   title: ' Welcome to Syntrixia! ',
-  author: 'Tails Azimuth',
-  headerTitle: 'TailwindBlog',
+  author: 'Feroz Bhuyan',
+  headerTitle: ' Website is not yet, please visit again!',
   description: 'A blog created with Next.js and Tailwind.css',
   language: 'en-us',
   theme: 'system', // system, dark or light
